@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/yutingbai/yutingbai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yutingbai/yutingbai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ## Welcome to GitHub Pages
+   
+ <h2>这里是yutingbai的github博客，主要记录每周所学习的知识点，希望我的日志对你有所帮助</h2>
+ <p>这是淘宝静态页面（HTML和css）仿写<a href="//github.com/yutingbai/html-css/tree/master/taobao">淘宝首页</a>包含了源代码和图片</p>
+ <p>这是用C语言编写学生信息管理系统<a href="https://github.com/yutingbai/yutingbai">student</a></p>
+ <p>还有我每周的周报</p>
+ <p><a href="https://github.com/yutingbai/yutingbai.github.io/blob/master/%E7%AC%AC%E4%B8%80%E5%91%A8%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5.md">第一周</a></p>
+     <p><a  href="https://github.com/yutingbai/yutingbai.github.io/blob/master/%E7%AC%AC%E4%BA%8C%E5%91%A8%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5.md">第二周</a></p>
+     <p><a href="https://github.com/yutingbai/yutingbai.github.io/blob/master/%E7%AC%AC%E4%B8%89%E5%91%A8%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5.md">第三周</a></p>
+     <p><a href="https://github.com/yutingbai/yutingbai.github.io/blob/master/%E7%AC%AC%E5%9B%9B%E5%91%A8%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5.md">第四周</a></p>
+    
